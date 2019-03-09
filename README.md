@@ -4,4 +4,4 @@ These are some jupyter notebooks made during reading the book of Francois Cholle
 these code-along notebooks include all of the introduced subjects in the book except :
   1.  Viasulizing ConvNets
   2.  Keras Functional API and Callbacks
-  3.  DCGANS
+  3.  DCGANs
